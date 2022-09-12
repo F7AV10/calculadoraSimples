@@ -1,5 +1,4 @@
-﻿using System;
-//using System.Collections.Generic;
+using System;
 using System.ComponentModel;
 ///using System.Globalization; INCLUIR APENAS SE FOR USAR "." AO INVES DE ","
 using System.Text;
@@ -249,6 +248,15 @@ namespace calculadoraSimples
         {
             textResultado.Text = "";
         }
+        //PERMITIR APENAS NUMEROS DIGITADOS PELO TECLADO NO TEXT bOX textResultado
+        private void textResultado_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!Char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
+            {
+                e.Handled = true;
+            }
+        }
+
         //APAGA TODAS AS VARIAVEIS, "RESET"
         private void botaoC_Click(object sender, EventArgs e)
         {
