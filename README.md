@@ -9,7 +9,9 @@
  Os codigos dentro do form1.cs estão comentados para melhor compreensão.
 
  - Os calculos são básicos e feitos de maneira simples.<br/>
- - Existem muitas maneiras de fazer a mesma calculadora, possivelmente melhor<br/>
+ - Este foi apenas um exercicio de conhecimento, existem maneiras mais otimizadas para fazer<br/>
+ a mesma calculadora.
+ 
 </div>
 
 ## Tecnologias utilizadas
