@@ -1,0 +1,10 @@
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.exe.config
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.exe
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.pdb
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csprojAssemblyReference.cache
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.Properties.Resources.resources
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.GenerateResource.cache
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.exe
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.pdb
+C:\Users\Flavio\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.calculadoraSimples.resources
