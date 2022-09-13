@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 <div>
- Uma calculadora simples feita em winForms e C# para praticar os conhecimentos adiquiridos no exercicio<br/>
+ Uma calculadora simples feita em winForms e C# para praticar os conhecimentos adquiridos no exercicio<br/>
  do game Pong - https://github.com/F7AV10/pingPong
  
  Os codigos dentro do form1.cs estão comentados para melhor compreensão.
